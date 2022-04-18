@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 다른 사람이 쉽게 사용할 수 있는 웹을 만드는 것이 목표입니다.  
 팀원들과 함께 서비스를 만들어 나가는 것을 좋아합니다. 
 
-- 성균관대 소프트웨어학과
-
 <br>
 
 **Email**  hongxing107@gmail.com
