@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <br>
 
+**Notion** [https://www.notion.so/Introduction-b4a4644007c24a4e9d739c1140853884](https://www.notion.so/Introduction-b4a4644007c24a4e9d739c1140853884)
+
 **Website** [https://shorecrabs.site](https://shorecrabs.site)
 
 **Email**  hongxing107@gmail.com
