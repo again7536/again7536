@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://shorecrabs.site"><img src="https://img.shields.io/badge/website-shorecrabs.site-brightgreen?style=flat"/></a>
 <a href="https://discord.gg/tV7XJspx"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/tV7XJspx"/></a>
   
-<br/>
+<br/><br/>
   
 다른 사람이 쉽게 사용할 수 있는 웹을 만드는 것이 목표입니다.  
 팀원들과 함께 서비스를 만들어 나가는 것을 좋아합니다.
